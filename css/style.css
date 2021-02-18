@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Lobster&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/sidebar.css");
+
+body {
+	font-size: 30px
+	font-family: 'Balsamiq Sans', cursive;
+	margin: 0px;
+}
+
+p{
+	font-family: Balsamiq Sans, cursive;
+}
+
+h1, h2, h3 {
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	margin: auto;
+	font-weight: lighter;
+}
+
+h1, h2 {
+	margin-top: 30px;
+}
+
+h3 {
+	font-size: 35px;
+	text-align: center;
+}
+
+h4 {
+	color: #F16657;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    font-size: 20px;
+    border-bottom: solid;
+}
+
+a {
+	text-decoration: none;
+	font-family: balsamiq sans, cursive;
+	color: black
+}
+
+.center {
+	text-align: center;
+}
+
+.page-content {
+  margin-left: 172px;
+}
